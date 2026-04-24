@@ -40,4 +40,4 @@ Stellar Survival doesn't just rely on visuals. The game features programmatic, f
 ## ⚙️ Installation & Setup
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/stellar-survival.git](https://github.com/yourusername/stellar-survival.git)
+   git clone [https://github.com/aatikayousuf/Stellar-Survival.git]
